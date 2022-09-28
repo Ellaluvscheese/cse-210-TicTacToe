@@ -1,0 +1,5 @@
+C:\Users\ellag\git\cse-210-TicTacToe\obj\Debug\net6.0\cse-210-TicTacToe.csproj.AssemblyReference.cache
+C:\Users\ellag\git\cse-210-TicTacToe\obj\Debug\net6.0\cse-210-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellag\git\cse-210-TicTacToe\obj\Debug\net6.0\cse-210-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\ellag\git\cse-210-TicTacToe\obj\Debug\net6.0\cse-210-TicTacToe.AssemblyInfo.cs
+C:\Users\ellag\git\cse-210-TicTacToe\obj\Debug\net6.0\cse-210-TicTacToe.csproj.CoreCompileInputs.cache
